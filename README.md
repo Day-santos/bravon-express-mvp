@@ -1,10 +1,5 @@
 # bravon-express-mvp
 
-bravon-express-mvp/
-├── README.md
-├── .gitignore
-└── docs/
-
 
 
 Bravon Express — Sistema de Controle de Entregas
