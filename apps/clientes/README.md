@@ -13,3 +13,10 @@ Este módulo será responsável pelo cadastro e gerenciamento dos clientes da Br
 ## Objetivo
 
 Organizar os dados dos clientes e facilitar o controle dos serviços e pagamentos vinculados a cada um.
+
+
+## Observações técnicas
+
+A documentação do módulo foi organizada para facilitar a manutenção e futuras integrações com os módulos de corridas e pagamentos.
+
+Os campos definidos consideram as necessidades identificadas no levantamento realizado com o setor administrativo da Bravon Express.
